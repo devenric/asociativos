@@ -14,7 +14,7 @@ $capitals = [];
 foreach ($country as $elementos) {
     $capitals[] = ['country' => $elementos];
 }
-var_dump($capitals)
+var_dump($capitals);
     ?>
 </body>
 </html>
